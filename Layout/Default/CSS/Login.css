@@ -217,10 +217,10 @@
   font-family: 'GothamBold';
   font-style: normal;
   font-weight: 400;
-  src: url(../fonts/GothamBold.otf);
+  src: url(../Fonts/GothamBold.otf);
 }@font-face {
   font-family: 'GothamRegular';
   font-style: normal;
   font-weight: 400;
-  src: url(../fonts/GothamRegular.otf);
+  src: url(../Fonts/GothamRegular.otf);
 }
