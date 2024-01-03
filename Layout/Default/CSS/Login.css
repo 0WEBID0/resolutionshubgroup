@@ -1,6 +1,6 @@
  .u-section-1 {
   background-image: none;
-  min-height: 100%;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -21,6 +21,10 @@
   background-image: url("../images/log-in-girl.svg");
 }
 
+.u-section-1 .u-image-1 {
+  background-image: url("../images/log-in-girl.svg");
+}
+
 .u-section-1 .u-container-layout-1 {
   padding: 0 30px;
 }
@@ -30,25 +34,23 @@
 }
 
 .u-section-1 .u-container-layout-2 {
-  padding: 30px 116px 30px 121px;
+  padding: 30px 92px;
 }
 
 .u-section-1 .u-text-1 {
-  width: 235px;
-  font-size: 0.875rem;
-  margin: 76px auto 0 auto;
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin: 51px 33px 0 85px;
 }
 
 .u-section-1 .u-text-2 {
-  font-size: 2.25rem;
-  font-weight: 700;
-  margin: -68px auto 0 auto;
+  font-size: 0.875rem;
+  margin: 6px 95px 0 147px;
 }
 
 .u-section-1 .u-form-1 {
   height: 312px;
-  width: 424px;
-  margin: 103px auto 0 auto;
+  margin: 74px 0 0 53px;
 }
 
 .u-section-1 .u-input-1 {
@@ -73,8 +75,7 @@
 
 .u-section-1 .u-text-3 {
   font-size: 1rem;
-  width: 235px;
-  margin: 0 auto;
+  margin: 0 95px 0 147px;
 }
 
 .u-section-1 .u-btn-2 {
@@ -84,14 +85,12 @@
 
 .u-section-1 .u-text-4 {
   font-size: 0.75rem;
-  width: 292px;
-  margin: 64px auto 0 auto;
+  margin: 64px 66px 0 118px;
 }
 
 .u-section-1 .u-text-5 {
   font-size: 0.875rem;
-  width: 235px;
-  margin: -1px auto 0 auto;
+  margin: -1px 95px 0 147px;
 }
 
 .u-section-1 .u-btn-3 {
@@ -114,33 +113,41 @@
     padding-left: 116px;
   }
 
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 5px;
+  }
+
   .u-section-1 .u-text-2 {
-    margin-right: auto;
-    margin-left: auto;
+    width: 235px;
+    margin-right: 41px;
+    margin-left: 94px;
   }
 
   .u-section-1 .u-form-1 {
-    margin-top: 80px;
-    margin-right: auto;
-    margin-left: auto;
     width: 264px;
+    margin-top: 51px;
+    margin-left: 3px;
   }
 
   .u-section-1 .u-text-3 {
     width: 139px;
+    margin-right: 41px;
+    margin-left: 94px;
   }
 
   .u-section-1 .u-text-4 {
     width: 258px;
     margin-top: 38px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 65px;
+    margin-right: 13px;
   }
 
   .u-section-1 .u-text-5 {
+    width: 235px;
     margin-top: 0;
-    margin-left: auto;
-    margin-right: auto;
+    margin-right: 41px;
+    margin-left: 94px;
   }
 }
 
@@ -158,15 +165,19 @@
     padding-right: 30px;
   }
 
-  .u-section-1 .u-text-2 {
+  .u-section-1 .u-text-1 {
     width: auto;
-    margin-top: -62px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-top: 37px;
+    margin-left: 27px;
+    margin-right: 27px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 0;
   }
 
   .u-section-1 .u-form-1 {
-    margin-top: 75px;
+    margin-top: 52px;
   }
 }
 
@@ -196,22 +207,38 @@
     min-height: 507px;
   }
 
-  .u-section-1 .u-text-2 {
+  .u-section-1 .u-text-1 {
     font-size: 1.5rem;
-    margin-right: auto;
-    margin-left: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 12px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-form-1 {
+    margin-top: 39px;
     margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-4 {
     margin-top: 64px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-5 {
     margin-top: -1px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }@font-face {
   font-family: 'GothamBold';

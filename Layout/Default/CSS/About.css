@@ -1,5 +1,9 @@
+ .u-section-1 {
+  background-image: none;
+}
+
 .u-section-1 .u-sheet-1 {
-  min-height: 882px;
+  min-height: 957px;
 }
 
 .u-section-1 .u-list-1 {
@@ -29,6 +33,7 @@
   width: 108px;
   height: 108px;
   background-image: none;
+  color: rgb(0, 0, 0) !important;
   margin: 0 auto 0 0;
   padding: 27px;
 }
@@ -68,6 +73,7 @@
   width: 108px;
   height: 108px;
   background-image: none;
+  color: rgb(0, 0, 0) !important;
   margin: 0 auto 0 0;
   padding: 27px;
 }
@@ -108,6 +114,7 @@
   width: 108px;
   height: 108px;
   background-image: none;
+  color: rgb(0, 0, 0) !important;
   margin: 0 auto 0 0;
   padding: 27px;
 }
@@ -234,8 +241,6 @@
   .u-section-1 .u-text-7 {
     font-size: 3.75rem;
   }
-}.u-section-2 .u-sheet-1 {
-  min-height: 183px;
 }@font-face {
   font-family: 'GothamBold';
   font-style: normal;
